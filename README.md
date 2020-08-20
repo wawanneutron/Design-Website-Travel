@@ -1,7 +1,7 @@
 # Design-Website-Travel
 
 # using logo Pealip (Pencinta Alam Insan Pembangunan)
-  Later, This is a travel web project, I made using the PHP 7 programming language technology, and the framework uses Laravel 7
+  Later,this will make website travel  made using the PHP 7 programming language technology, and the framework uses Laravel 7
   
 # Home Page
 
